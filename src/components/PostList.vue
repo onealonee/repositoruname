@@ -9,7 +9,7 @@
     />
   </div>
   <h2 v-else style="color: red">
-    Список пуст блять
+    Список пуст :(
   </h2>
 
 </template>
